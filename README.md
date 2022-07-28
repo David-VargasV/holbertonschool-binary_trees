@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/98335124/181631104-ea05ef78-2d50-449a-aa3d-65ec5934c27f.png)
 ***
 
-# holbertonschool-Binary_trees
+# :evergreen_tree: holbertonschool-Binary_trees :evergreen_tree:
 ***
 In computer science, a binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child. A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set containing the root. Some authors allow the binary tree to be the empty set as well.
 
@@ -10,7 +10,7 @@ From a graph theory perspective, binary (and K-ary) trees as defined here are ar
 In mathematics, what is termed binary tree can vary significantly from author to author. Some use the definition commonly used in computer science, but others define it as every non-leaf having exactly two children and don't necessarily order (as left/right) the children either.
 ***
 
-## Folders and Files
+## Folders and Files :open_file_folder:
 
 | **Files**  | **Description** |
 | ------------- |:-------------:|
@@ -38,9 +38,9 @@ In mathematics, what is termed binary tree can vary significantly from author to
 
 ***
 
-## Learning Objectives
+## Learning Objectives :ledger: :pencil2: :memo:
 ***
-### General
+### General :wrench:
 
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -49,7 +49,7 @@ In mathematics, what is termed binary tree can vary significantly from author to
 * What are the different traversal methods to go through a binary tree
 * What is a complete, a full, a perfect, a balanced binary tree
 
-### Requirements
+### Requirements :wrench:
 
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -65,7 +65,7 @@ In mathematics, what is termed binary tree can vary significantly from author to
 * All your header files should be include guarded
 ***
 
-## More Info
+## More Info :books:
 ***
 ## Data structures
 
@@ -106,7 +106,7 @@ typedef struct binary_tree_s heap_t;
 ```
 ***
 
-## Authors
+## Authors :raising_hand:
 ***
 [David Vargas](https://github.com/David-VargasV) :computer: :grin: :evergreen_tree:
 
